@@ -1,4 +1,4 @@
-# Landing-pages
+# Landing_pages
 
 <ul>
   <li>Adaptive layout</li>
