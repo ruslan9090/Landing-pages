@@ -1,7 +1,7 @@
 # Landing-pages
 
 <ul>
-  <li> Adaptive layout</li>
-  <li>round Website validation check</li>
-  <li>roundAll images are divided into folders</li>
+  <li>Adaptive layout</li>
+  <li>Website validation check</li>
+  <li>All images are divided into folders</li>
 </ul>
