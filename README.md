@@ -1,5 +1,7 @@
 # Landing-pages
 
-{list-style-type:round} Adaptive layout<br>
-list-style-type:round Website validation check<br>
-list-style-type:roundAll images are divided into folders
+<ul>
+  <li> Adaptive layout</li>
+  <li>round Website validation check</li>
+  <li>roundAll images are divided into folders</li>
+</ul>
